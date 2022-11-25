@@ -88,4 +88,4 @@ $ cargo build
 
 ## License
 
-This project is licensed under the MIT License, more details [here](LICENSE).
+This project is licensed under the MIT License, more details [here](LICENSE.txt).
